@@ -1,0 +1,5 @@
+n,time_ms,comparisons,array_accesses,memory_allocations,majority
+100,0,027,200,200,0,9
+1000,0,205,2000,2000,0,6
+10000,1,133,20000,20000,0,3
+100000,4,729,200000,200000,0,8
